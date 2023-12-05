@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Homepage](https://img.shields.io/badge/Homepage-d7chong.github.io-orange?style=flat-square)](https://www.d7chong.github.io)
+[![Homepage](https://img.shields.io/badge/Homepage-d7chong.github.io-orange?style=round-square)](https://www.d7chong.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-d7chong-black?style=round-square&logo=github)](https://github.com/d7chong)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hyochan_Chong-blue?style=round-square&logo=linkedin)](https://www.linkedin.com/in/d7chong/)
-[![Gmail](https://img.shields.io/badge/Gmail-d7chong%40gmail.com-red?style=flat-square&logo=gmail)](mailto:d7chong@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d7chong%40gmail.com-red?style=round-square&logo=gmail)](mailto:d7chong@gmail.com)
 
 
 I'm an undergraduate student at [Sungkyunkwan University (SKKU)]((https://www.skku.edu/eng/)), double majoring in mechanical engineering and AI. I'm interested in endowing real-world intelligence to physical agents. Some areas that I am working on to fulfill this goal are:

@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Homepage](https://img.shields.io/badge/Homepage-d7chong.github.io-orange?style=round-square)](https://www.d7chong.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-d7chong-black?style=round-square&logo=github)](https://github.com/d7chong)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hyochan_Chong-blue?style=round-square&logo=linkedin)](https://www.linkedin.com/in/d7chong/)

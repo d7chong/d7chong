@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d7chong%40gmail.com-red?style=round-square&logo=gmail)](mailto:d7chong@gmail.com)
 
 
-I'm an undergraduate student at [Sungkyunkwan University (SKKU)]((https://www.skku.edu/eng/)), double majoring in mechanical engineering and AI. I'm interested in endowing real-world intelligence to physical agents. Some areas that I am working on to fulfill this goal are:
+I'm an undergraduate student at [Sungkyunkwan University (SKKU)]((https://www.skku.edu/eng/)), double majoring in mechanical engineering and AI. I'm interested in endowing real-world intelligence to physical agents. Some areas that I am working on to contribute towards this goal are:
 - Computer vision
 - Reinforcement learning
 - Robotics

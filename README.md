@@ -1,7 +1,7 @@
-[![Homepage](https://img.shields.io/badge/Homepage-d7chong.github.io-orange?style=round-square)](https://d7chong.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-d7chong-black?style=round-square&logo=github)](https://github.com/d7chong)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hyochan_Chong-blue?style=round-square&logo=linkedin)](https://www.linkedin.com/in/d7chong/)
-[![Gmail](https://img.shields.io/badge/Gmail-d7chong%40gmail.com-red?style=round-square&logo=gmail)](mailto:d7chong@gmail.com)
+[![Homepage](https://img.shields.io/badge/🌐d7chong.github.io-orange?style=round-square)](https://d7chong.github.io/)
+[![GitHub](https://img.shields.io/badge/d7chong-black?style=round-square&logo=github)](https://github.com/d7chong)
+[![LinkedIn](https://img.shields.io/badge/Hyochan_Chong-blue?style=round-square&logo=linkedin)](https://www.linkedin.com/in/d7chong/)
+[![Gmail](https://img.shields.io/badge/d7chong%40gmail.com-gray?style=round-square&logo=gmail)](mailto:d7chong@gmail.com)
 
 
 I'm an undergraduate student at [Sungkyunkwan University (SKKU)]((https://www.skku.edu/eng/)), double majoring in mechanical engineering and AI. I'm interested in endowing real-world intelligence to physical agents. Some areas that I am working on to contribute towards this goal are:
@@ -11,7 +11,7 @@ I'm an undergraduate student at [Sungkyunkwan University (SKKU)]((https://www.sk
 
 ### Experience
 * [2023.12 - Present] [KAIST Graduate School of AI](https://gsai.kaist.ac.kr/) - [Cognitive Learning for Vision and Robotics (CLVR) Lab](https://www.clvrai.com/) - Research Intern<br>
-* [2023.06 - 2023.12] [SKKU](https://www.skku.edu/eng/) - [Robotics and Intelligent Systems Engineering (RISE) Lab](https://rise.skku.edu/) - Research Intern
+* [2023.06 - 2023.12] [SKKU](https://www.skku.edu/eng/) - [Robotics and Intelligent System Engineering (RISE) Lab](https://rise.skku.edu/) - Research Intern
 
 <!--
 **d7chong/d7chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

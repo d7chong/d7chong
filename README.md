@@ -10,7 +10,7 @@ I'm an undergraduate student at [Sungkyunkwan University (SKKU)]((https://www.sk
 - Robotics
 
 ### Experience
-* [2023.12 - Present] [KAIST Graduate School of AI](https://gsai.kaist.ac.kr/) - [Cognitive Learning for Vision and Robotics (CLVR) Lab](https://www.clvrai.com/) - Research Intern<br>
+* [2024.01 - Present] [KAIST Graduate School of AI](https://gsai.kaist.ac.kr/) - [Cognitive Learning for Vision and Robotics (CLVR) Lab](https://www.clvrai.com/) - Research Intern<br>
 * [2023.06 - 2023.12] [SKKU](https://www.skku.edu/eng/) - [Robotics and Intelligent System Engineering (RISE) Lab](https://rise.skku.edu/) - Research Intern
 
 <!--

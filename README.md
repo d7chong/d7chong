@@ -1,18 +1,18 @@
-# Daniel Hyochan Chong
+# Hyochan "Daniel" Chong
 
-## Interests
+### Education
 
-Efficient deep learning, model compression, generative models
+- Undergraduate Student at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/)
+  - Double major in Mechanical Engineering and AI (class of 2025)
 
-## Experience
+### Experience
 
-* **[08/24 - Present]** Research Intern at [<b>I</b>ntelligent & <b>R</b>esource-efficient <b>I</b>mage processing & <b>S</b>ystems design (IRIS) Lab](https://iris.skku.edu/), [Sungkyunkwan University](https://www.skku.edu/eng/)
-* **[07/24 - 08/24]** Software Engineer Intern on the [SoC Architecture Team](https://research.samsung.com/soc-architecture) at [Samsung Research](https://research.samsung.com/)
-* **[04/24 - 06/24]** Software Engineer Intern at [GoLe Robotics](https://www.golerobotics.com/)
-* **[01/24 - 03/24]** Research Intern at [<b>C</b>ognitive <b>L</b>earning for <b>V</b>ision and <b>R</b>obotics (CLVR) Lab](https://www.clvrai.com/), [KAIST Graduate School of AI](https://gsai.kaist.ac.kr/)
-* **[06/23 - 12/23]** Research Intern at [<b>R</b>obotics and <b>I</b>ntelligent <b>S</b>ystem <b>E</b>ngineering (RISE) Lab](https://rise.skku.edu/), [Sungkyunkwan University](https://www.skku.edu/eng/)
+- <b>[08/24 - Present]</b> <b>[IRIS Lab](https://iris.skku.edu/)</b>, [SKKU](https://www.skku.edu/eng/), Research Intern <img align="left" alt="Java" width="30px" src="https://styles.redditmedia.com/t5_35dnu/styles/communityIcon_ivl7mc4sk1t51.jpg?format=pjpg&s=9107d5014b160fd2ec63ecc4dcd1104b8fc2c87a" />
 
-## Education
+- <b>[07/24 - 08/24]</b> <b>[Samsung Research](https://research.samsung.com/)</b>, [SoC Architecture Team](https://research.samsung.com/soc-architecture), Software Engineer Intern <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/v2/C560BAQH3lurqecHRug/company-logo_200_200/company-logo_200_200/0/1630647495008/samsungresearch_logo?e=2147483647&v=beta&t=YTDIICZuDhhvmox13h-24XG-cs9iQD8GnjvV7jqqptU" />
 
-* Undergraduate Student at [Sungkyunkwan University](https://www.skku.edu/eng/)
-  * Double major in Mechanical Engineering and AI (2019 - 2025)
+- **[04/24 - 06/24]** <b>[GoLe Robotics](https://www.golerobotics.com/)</b>, Software Engineer Intern <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/D560BAQEria7eVs92sg/company-logo_200_200/0/1713412972434?e=2147483647&v=beta&t=zmDYZfu5agb4d0F7spWlbWe5H53KNAgrn7fwUSUXnXo" />
+
+- **[01/24 - 03/24]** <b>[CLVR Lab](https://www.clvrai.com/)</b>, [KAIST Graduate School of AI](https://gsai.kaist.ac.kr/), Research Intern <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/v2/D4E0BAQEU8YEueYObnQ/company-logo_200_200/company-logo_200_200/0/1698886509850?e=2147483647&v=beta&t=jDwTDttM_BEQfBtRuMCvSBJXXTXQnAVLgaIv-K5aoOY" />
+
+- **[06/23 - 12/23]** [RISE Lab](https://rise.skku.edu/), [SKKU](https://www.skku.edu/eng/), Research Intern <img align="left" alt="Java" width="30px" src="https://styles.redditmedia.com/t5_35dnu/styles/communityIcon_ivl7mc4sk1t51.jpg?format=pjpg&s=9107d5014b160fd2ec63ecc4dcd1104b8fc2c87a" />

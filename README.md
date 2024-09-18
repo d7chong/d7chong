@@ -1,18 +1,32 @@
-# Hyochan "Daniel" Chong
+## Hyochan "Daniel" Chong
 
-### Education
+[![Home](https://img.shields.io/badge/🌐-website-blue)](https://d7chong.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d7chong/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/d7chong)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:d7chong@gmail.com)
+
+#### Interests
+
+- Efficient machine learning
+  - Machine learning systems
+  - Model compression
+
+#### Education
 
 - Undergraduate Student at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/)
-  - Double major in Mechanical Engineering and AI (class of 2025)
+  - Double major in AI and Mechanical Engineering (class of 2025)
 
-### Experience
+#### Work Experience 
 
-- <b>[08/24 - Present]</b> <b>[IRIS Lab](https://iris.skku.edu/)</b>, [SKKU](https://www.skku.edu/eng/), Research Intern <img align="left" alt="Java" width="30px" src="https://styles.redditmedia.com/t5_35dnu/styles/communityIcon_ivl7mc4sk1t51.jpg?format=pjpg&s=9107d5014b160fd2ec63ecc4dcd1104b8fc2c87a" />
+- [07/24 - 08/24] [Samsung Research](https://research.samsung.com/), [SoC Architecture Team](https://research.samsung.com/soc-architecture), Software Engineer Intern
 
-- <b>[07/24 - 08/24]</b> <b>[Samsung Research](https://research.samsung.com/)</b>, [SoC Architecture Team](https://research.samsung.com/soc-architecture), Software Engineer Intern <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/v2/C560BAQH3lurqecHRug/company-logo_200_200/company-logo_200_200/0/1630647495008/samsungresearch_logo?e=2147483647&v=beta&t=YTDIICZuDhhvmox13h-24XG-cs9iQD8GnjvV7jqqptU" />
+- [04/24 - 06/24] [GoLe Robotics](https://www.golerobotics.com/), Software Engineer Intern
 
-- **[04/24 - 06/24]** <b>[GoLe Robotics](https://www.golerobotics.com/)</b>, Software Engineer Intern <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/D560BAQEria7eVs92sg/company-logo_200_200/0/1713412972434?e=2147483647&v=beta&t=zmDYZfu5agb4d0F7spWlbWe5H53KNAgrn7fwUSUXnXo" />
+#### Research Experience
 
-- **[01/24 - 03/24]** <b>[CLVR Lab](https://www.clvrai.com/)</b>, [KAIST Graduate School of AI](https://gsai.kaist.ac.kr/), Research Intern <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/v2/D4E0BAQEU8YEueYObnQ/company-logo_200_200/company-logo_200_200/0/1698886509850?e=2147483647&v=beta&t=jDwTDttM_BEQfBtRuMCvSBJXXTXQnAVLgaIv-K5aoOY" />
+- [08/24 - Present] [IRIS Lab](https://iris.skku.edu/), [SKKU](https://www.skku.edu/eng/), Research Intern
 
-- **[06/23 - 12/23]** [RISE Lab](https://rise.skku.edu/), [SKKU](https://www.skku.edu/eng/), Research Intern <img align="left" alt="Java" width="30px" src="https://styles.redditmedia.com/t5_35dnu/styles/communityIcon_ivl7mc4sk1t51.jpg?format=pjpg&s=9107d5014b160fd2ec63ecc4dcd1104b8fc2c87a" />
+  
+- [01/24 - 03/24] [CLVR Lab](https://www.clvrai.com/), [KAIST Graduate School of AI](https://gsai.kaist.ac.kr/), Research Intern
+
+- [06/23 - 12/23] [RISE Lab](https://rise.skku.edu/), [SKKU](https://www.skku.edu/eng/), Research Intern
